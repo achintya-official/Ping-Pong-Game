@@ -16,8 +16,8 @@ A classic 2D Ping Pong game recreated with a modern touch using **[Your Language
 
 ## 🧰 Tech Stack
 
-- **Language:** [e.g., Python]
-- **Library/Engine:** [e.g., Pygame / JavaScript + HTML5 Canvas]
+- **Language:** Python
+- **Library/Engine:** JavaScript + HTML5 Canvas
 - **Platform:** Cross-platform (Windows, Mac, Linux)
 
 ---
